@@ -9,15 +9,11 @@
 - 🖥 Frontend: 
 
    <img src="https://img.shields.io/badge/-HTML5-585858?logo=html5&logoColor=E34F26" alt="HTML5">
-   
    <img src="https://img.shields.io/badge/-CSS3-585858?logo=css3&logoColor=1572B6" alt="CSS3">
-   
-   [![JavaScrit.](https://img.shields.io/badge/-JavaScript-585858?logo=javascript&logoColor=F7DF1E "Javascript MDN")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
    <img src="https://img.shields.io/badge/-JavaScript-585858?logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 
 - ⚙ Backend: 
   
-  [![JavaScrit.](https://img.shields.io/badge/-JavaScript-585858?logo=javascript&logoColor=F7DF1E "Javascript MDN")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   <img src="https://img.shields.io/badge/-JavaScript-585858?logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/NodeJS-585858?logo=node.js&logoColor=6DA55F" alt="Nodejs">
   
