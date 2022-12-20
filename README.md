@@ -1,6 +1,6 @@
 ## Hi 🖖, I'm Vinicius Macedo
 
-- 👀 I'm interested in coding and see codes!
+- 👨‍💻 I’m a Web Developer! 
 - 🌱 I’m currently learning web development at [Rocketseat](https://www.rocketseat.com.br/)! 
 - 🔭 I'm also currently working on my hard and soft skills to get my first opportunity in technology area.
 
@@ -8,28 +8,29 @@
   
 - 🖥 Frontend: 
 
-   <img src="https://img.shields.io/badge/-HTML5-585858?logo=html5&logoColor=E34F26" alt="HTML5">
-   <img src="https://img.shields.io/badge/-CSS3-585858?logo=css3&logoColor=1572B6" alt="CSS3">
-   <img src="https://img.shields.io/badge/-JavaScript-585858?logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+   <img src="https://img.shields.io/badge/-HTML5-585858?logo=html5&logoColor=E34F26" alt="Macedovin-HTML5">
+   <img src="https://img.shields.io/badge/-CSS3-585858?logo=css3&logoColor=1572B6" alt="Macedovin-CSS3">
+   <img src="https://img.shields.io/badge/-JavaScript-585858?logo=javascript&logoColor=F7DF1E" alt="Macedovin-JavaScript">
 
 - ⚙ Backend: 
   
-  <img src="https://img.shields.io/badge/-JavaScript-585858?logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/NodeJS-585858?logo=node.js&logoColor=6DA55F" alt="Nodejs">
+  <img src="https://img.shields.io/badge/-JavaScript-585858?logo=javascript&logoColor=F7DF1E" alt="Macedovin-JavaScript">
+  <img src="https://img.shields.io/badge/NodeJS-585858?logo=node.js&logoColor=6DA55F" alt="Macedovin-Nodejs">
+  <img src="https://img.shields.io/badge/SQLite-585858?logo=sqlite&logoColor=1572B6" alt="Macedovin-SQLite">
   
-- 🗃 Version code control: 
+- 🗃️ Version code control: 
 
-  <img src="https://img.shields.io/badge/-Git-585858?logo=git&logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-585858?logo=github&logoColor=FFFFFF" alt="Github">
+  <img src="https://img.shields.io/badge/-Git-585858?logo=git&logoColor=F05032" alt="Macedovin-Git">
+  <img src="https://img.shields.io/badge/-GitHub-585858?logo=github&logoColor=FFFFFF" alt="Macedovin-Github">
 
 - 🛠️ Tools: 
   
-  <img src="https://img.shields.io/badge/-VSCode-585858?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/-Markdown-585858?logo=markdown&logoColor=FFFFFF" alt="Markdown">
+  <img src="https://img.shields.io/badge/-VSCode-585858?logo=visual-studio-code&logoColor=007ACC" alt="Macedovin-Visual Studio Code">
+  <img src="https://img.shields.io/badge/-Markdown-585858?logo=markdown&logoColor=FFFFFF" alt="Macedovin-Markdown">
 
 - 🖼 Layout Design: 
 
-  <img src="https://img.shields.io/badge/Figma-585858?logo=figma&logoColor=F24E1E" alt="Figma"> 
+  <img src="https://img.shields.io/badge/Figma-585858?logo=figma&logoColor=F24E1E" alt="Macedovin-Figma"> 
 
 ## Contact
 
@@ -50,8 +51,3 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Macedovin&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
-
-<!---
-VMPILUSTRA/VMPILUSTRA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
